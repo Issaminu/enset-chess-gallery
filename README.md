@@ -1,10 +1,14 @@
-# Next.js & Cloudinary example app
+# The ENSET Chess Championship gallery site
 
-This example shows how to create an image gallery site using Next.js, [Cloudinary](https://cloudinary.com), and [Tailwind](https://tailwindcss.com).
+![The ENSET Chess Championship banner image](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOSQqR9inisPRoMD96K_oAhcqbSXm4COmmuAUs-nLH4IPJpcNnf3cOt-QAlepRtvxRXWf6EPOFAulyZqYr4HVZxVgktwJw=w1901-h936)
+
+This is a gallery site for the ENSET Chess Championship. It is built using Next.js, [Cloudinary](https://cloudinary.com), and [Tailwind](https://tailwindcss.com).
 
 ## Deploy your own
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or view the demo [here](https://nextconf-images.vercel.app/)
+
+Check out the Vercel article explaining how this example was built [here](https://vercel.com/blog/building-a-fast-animated-image-gallery-with-next-js).
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-cloudinary&project-name=nextjs-image-gallery&repository-name=with-cloudinary&env=NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME,CLOUDINARY_API_KEY,CLOUDINARY_API_SECRET,CLOUDINARY_FOLDER&envDescription=API%20Keys%20from%20Cloudinary%20needed%20to%20run%20this%20application.)
 
