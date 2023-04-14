@@ -6,7 +6,7 @@ export default function Logo() {
       className="z-10 mx-auto mt-8"
       src={logo}
       alt="ENSET Chess Championship logo"
-      height={280}
+      height={220}
     />
   );
 }
