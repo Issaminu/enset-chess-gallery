@@ -1,5 +1,12 @@
 import Image from "next/image";
 import logo from "../../public/logo.png";
 export default function Logo() {
-  return <Image src={logo} alt="ENSET Chess Championship logo" height={580} />;
+  return (
+    <Image
+      className="z-10 mx-auto mt-8 md:mt-0"
+      src={logo}
+      alt="ENSET Chess Championship logo"
+      height={280}
+    />
+  );
 }
