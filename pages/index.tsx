@@ -70,7 +70,9 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
                 target="_blank"
                 rel="noreferrer"
               >
-                <span className="font-bold">ENSET Mohammedia</span>
+                <span className="font-semibold hover:text-white">
+                  ENSET Mohammedia
+                </span>
               </Link>
               .
             </p>
