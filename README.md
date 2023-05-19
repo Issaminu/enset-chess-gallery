@@ -1,6 +1,6 @@
 # The ENSET Chess Championship gallery site
 
-![The ENSET Chess Championship banner image](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOSQqR9inisPRoMD96K_oAhcqbSXm4COmmuAUs-nLH4IPJpcNnf3cOt-QAlepRtvxRXWf6EPOFAulyZqYr4HVZxVgktwJw=w1901-h936)
+![The ENSET Chess Championship banner image](https://raw.githubusercontent.com/Issaminu/enset-chess-gallery/main/public/og-image.png)
 
 This is a gallery site for the ENSET Chess Championship. It is built using Next.js, [Cloudinary](https://cloudinary.com), and [Tailwind](https://tailwindcss.com).
 
